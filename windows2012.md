@@ -15,48 +15,70 @@ Este guia irá te ajudar a instalar o Windows Server 2012 em um ambiente físico
 
 Download do Arquivo ISO: Acesse o site da Microsoft (https://www.microsoft.com/en-us/evalcenter/download-windows-server-2012-r2) e baixe o arquivo ISO do Windows Server 2012. <br>
 Gravação do Arquivo ISO: Utilize um software de gravação de imagens, como o ImgBurn ou o Nero Burning ROM, para gravar o arquivo ISO em um DVD vazio.
-![alt text](image.png)
+
+![image](https://github.com/yascsilva/Manual-de-Instala-o-Windows-Server-2012/assets/170104606/366b9627-0869-489c-850f-f2081e0933a1) 
+
 
 ### Início da Instalação: 
 A instalação do Windows Server 2012 será iniciada automaticamente após a reinicialização.
-![alt text](image-1.png)
+
+![image](https://github.com/yascsilva/Manual-de-Instala-o-Windows-Server-2012/assets/170104606/4ba5b411-e0bc-4b4f-a923-f2bb0bb89079)
+
 
 ### Seleção de Idioma, Teclado e Fuso Horário
  Escolha o idioma, o layout do teclado e o fuso horário desejados para sua instalação. 
- ![alt text](<Captura de tela 2024-05-17 150638.png>)
+ 
+![Captura de tela 2024-05-17 150638](https://github.com/yascsilva/Manual-de-Instala-o-Windows-Server-2012/assets/170104606/ac50f5bd-ce08-4639-9265-5d72e359d6aa)
+
 
  ### Escolha do sistema operacional
  Escolha o sistema operacional com servidor GUI para ter uma melhor interface gráfica.
- ![alt text](<Captura de tela 2024-05-17 150731.png>)
+ 
+![Captura de tela 2024-05-17 150731](https://github.com/yascsilva/Manual-de-Instala-o-Windows-Server-2012/assets/170104606/052093f9-fc6d-40fc-95a5-174b93a1ee90)
+
 
  ### Aceitação dos Termos de Licença:
   Leia e aceite os termos de licença do software para prosseguir.
-  ![alt text](<Captura de tela 2024-05-17 150804.png>)
+  
+  ![Captura de tela 2024-05-17 150804](https://github.com/yascsilva/Manual-de-Instala-o-Windows-Server-2012/assets/170104606/57c341a3-1256-48a2-989f-b4221709650c)
+
 
   ### Tipo de Instalação: 
 **Selecione o tipo de instalação desejado:**
 - Escolha a Instalação Personalizada: Permite escolher os recursos e componentes que você deseja instalar.(Mais contole sobre a instalação)
-![alt text](<Captura de tela 2024-05-17 150834.png>)
+  
+![Captura de tela 2024-05-17 150834](https://github.com/yascsilva/Manual-de-Instala-o-Windows-Server-2012/assets/170104606/62251818-deb2-42d1-9758-95dffa777778)
+
 
 ### Seleção da Partição:
  Selecione a partição do disco rígido onde você deseja instalar o Windows Server 2012.
-![alt text](<Captura de tela 2024-05-17 150906.png>)![alt text](<Captura de tela 2024-05-17 150927.png>)
+ 
+![Captura de tela 2024-05-17 150906](https://github.com/yascsilva/Manual-de-Instala-o-Windows-Server-2012/assets/170104606/2d13bcdb-4254-48c5-baec-8fec0bca1c9f)
+![Captura de tela 2024-05-17 150927](https://github.com/yascsilva/Manual-de-Instala-o-Windows-Server-2012/assets/170104606/ccf49d09-1785-4790-8887-bb7c4978f0e9)
+
 
 ### Instalação dos Arquivos de Sistema:
 Aguarde a conclusão da instalação dos arquivos de sistema do Windows Server 2012.
-![alt text](<Captura de tela 2024-05-17 150955.png>)
+
+![Captura de tela 2024-05-17 150955](https://github.com/yascsilva/Manual-de-Instala-o-Windows-Server-2012/assets/170104606/3354125f-0b29-4988-af93-8c1221d78445)
+
 
 ### Definição de Senha:
 Crie uma senha forte para a conta de administrador do sistema.
-![alt text](image-2.png)
+
+![image](https://github.com/yascsilva/Manual-de-Instala-o-Windows-Server-2012/assets/170104606/616b6933-b9b4-43af-88dc-f33487958d47)
+
 
 ### Configurações
  Aguarde enquanto o Windows Server 2012 é instalado e configurado, durante a configuração será solicitado que você coloque a senha para administradores do sistema
- ![alt text](<Captura de tela 2024-05-17 151813.png>)
+ 
+![Captura de tela 2024-05-17 151813](https://github.com/yascsilva/Manual-de-Instala-o-Windows-Server-2012/assets/170104606/e7a53362-c8f4-431a-8315-6d8007d4668e)
+
 
 ### Conclua a instalação e configure o Windows Server 2012:
 Após a instalação, você pode configurar o Windows Server 2012 dentro da máquina virtual conforme necessário, incluindo definir o nome da máquina, configurar as configurações de rede, etc.
-![alt text](<Captura de tela 2024-05-17 151838.png>)
+
+![Captura de tela 2024-05-17 151838](https://github.com/yascsilva/Manual-de-Instala-o-Windows-Server-2012/assets/170104606/be8cf7f2-f076-4840-bee1-436603d18d5e)
 
 
 ## Dicas Úteis 
